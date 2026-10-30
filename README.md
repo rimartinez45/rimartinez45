@@ -64,4 +64,16 @@ Mi objetivo es crecer como desarrollador de software, participar en proyectos te
 
 💼 LinkedIn
 
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rimartinez45&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=rimartinez45&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📌 Actividad
+
+![Racha de contribuciones](https://streak-stats.demolab.com?user=rimartinez45&theme=tokyonight&hide_border=true)
+
+
 🐙 GitHub
